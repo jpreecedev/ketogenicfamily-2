@@ -3,10 +3,10 @@ import get from 'lodash/get'
 import Img from 'gatsby-image'
 import React from 'react'
 
+import Layout from '../components/Layout'
+import Meta from '../components/Meta'
+import Icon from '../components/Icon'
 import { siteMetadata } from '../../gatsby-config'
-import Layout from 'components/Layout'
-import Meta from 'components/Meta'
-import Icon from 'components/Icon'
 
 class Profile extends React.Component {
   render() {

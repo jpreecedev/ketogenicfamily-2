@@ -1,14 +1,12 @@
 import React from 'react'
 import emergence from 'emergence.js'
 
-import Navi from 'components/Navi'
-import Footer from 'components/Footer'
+import Navi from '../Navi'
+import Footer from '../Footer'
 import { siteMetadata } from '../../../gatsby-config'
 
 import 'modern-normalize/modern-normalize.css'
-import 'prismjs/themes/prism.css'
-import 'scss/gatstrap.scss'
-import 'animate.css/animate.css'
+import '../../scss/gatstrap.scss'
 import 'font-awesome/css/font-awesome.css'
 
 class Layout extends React.Component {

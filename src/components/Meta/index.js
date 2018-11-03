@@ -4,17 +4,17 @@ import get from 'lodash/get'
 
 const Meta = ({ site, title }) => {
   const siteTitle = get(site, 'title')
-  title = title ? `${title} | ${siteTitle}` : siteTitle
+  const titleToUse = title ? `${title} | ${siteTitle}` : siteTitle
   return (
     <Helmet
-      title={title}
+      title={titleToUse}
       meta={[
         { name: 'twitter:card', content: 'summary' },
         {
           name: 'twitter:site',
           content: `@${get(site, 'twitter')}`,
         },
-        { property: 'og:title', content: title },
+        { property: 'og:title', content: titleToUse },
         { property: 'og:type', content: 'website' },
         {
           property: 'og:description',
