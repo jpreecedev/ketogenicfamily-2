@@ -6,7 +6,7 @@ import Footer from '../Footer'
 import { siteMetadata } from '../../../gatsby-config'
 
 import 'modern-normalize/modern-normalize.css'
-import '../../scss/gatstrap.scss'
+import '../../scss/bootstrap.scss'
 import 'font-awesome/css/font-awesome.css'
 
 class Layout extends React.Component {

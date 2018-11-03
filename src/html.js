@@ -1,5 +1,5 @@
 import React from 'react'
-import './scss/gatstrap.scss'
+import './scss/bootstrap.scss'
 
 function HTML({ headComponents, body, postBodyComponents }) {
   return (
