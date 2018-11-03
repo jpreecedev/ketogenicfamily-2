@@ -7,6 +7,7 @@ import { siteMetadata } from '../../../gatsby-config'
 
 import 'modern-normalize/modern-normalize.css'
 import '../../scss/bootstrap.scss'
+import '../../scss/app.scss'
 import 'font-awesome/css/font-awesome.css'
 
 class Layout extends React.Component {

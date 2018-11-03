@@ -1,5 +1,6 @@
 import React from 'react'
 import './scss/bootstrap.scss'
+import './scss/app.scss'
 
 function HTML({ headComponents, body, postBodyComponents }) {
   return (
