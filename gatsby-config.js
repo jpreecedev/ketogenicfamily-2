@@ -1,13 +1,14 @@
 module.exports = {
   siteMetadata: {
     title: 'KetogenicFamily',
-    description: 'Gatsby starter for bootstrap a blog',
+    description:
+      'KetogenicFamily.com - Follow our progress towards a permanent ketogenic lifestyle',
     siteUrl: 'https://www.ketogenicfamily.com',
-    author: 'jaxx2104',
-    twitter: 'jaxx2104',
+    author: 'jpreecedev',
+    twitter: 'jpreecedev',
     adsense: '',
   },
-  pathPrefix: '/',
+  pathPrefix: '/ketogenicfamily',
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',
