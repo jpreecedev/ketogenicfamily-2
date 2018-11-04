@@ -5,6 +5,7 @@ import { graphql } from 'gatsby'
 import Layout from '../layout'
 import SEO from '../components/SEO'
 import Masonry from '../components/Masonry'
+import Jumbotron from '../components/Jumbotron'
 import config from '../../data/SiteConfig'
 
 function Index({ data }) {
@@ -13,6 +14,10 @@ function Index({ data }) {
     <Layout>
       <Helmet title={config.siteTitle} />
       <SEO />
+      <Jumbotron
+        title="Ketogenic Family"
+        lead="Free recipes suitable for the modern ketogenic family"
+      />
       <div className="container">
         <h2 className="display-2">Latest recipes</h2>
         <Masonry cards={cards} />

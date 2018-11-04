@@ -1,5 +1,6 @@
 {
   "key": "flourless-chocolate-biscuits",
+  "url": "/recipes/flourless-chocolate-biscuits",
   "imgSrc": "/img/flourless-chocolate-biscuits.png",
   "title": "Flourless chocolate biscuits",
   "description": "A soft, light, chocolatey biscuit",
@@ -16,7 +17,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "cocoa-powder",
       "quantity": 45,
       "units": "g",
@@ -58,9 +60,5 @@
     "Add in the cocoa powder and whisk until all mixed together.",
     "On a stick proof tray, spoon out the mixture and bake for 10-15 minutes."
   ],
-  "related": [
-    "chocolate-chip-cheesecake",
-    "keto-hot-chocolate",
-    "keto-sponge-cake"
-  ]
+  "related": ["chocolate-chip-cheesecake", "keto-hot-chocolate", "keto-sponge-cake"]
 }

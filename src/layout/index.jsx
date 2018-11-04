@@ -7,7 +7,6 @@ import '../styles/app.scss'
 
 import Header from '../components/Header'
 import Footer from '../components/Footer'
-import Jumbotron from '../components/Jumbotron'
 
 function Layout({ children }) {
   return (
@@ -16,13 +15,7 @@ function Layout({ children }) {
         <meta name="description" content={config.siteDescription} />
       </Helmet>
       <Header />
-      <main>
-        <Jumbotron
-          title="Ketogenic Family"
-          lead="Free recipes suitable for the modern ketogenic family"
-        />
-        {children}
-      </main>
+      <main>{children}</main>
       <Footer />
     </React.Fragment>
   )

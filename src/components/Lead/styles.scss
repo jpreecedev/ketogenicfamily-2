@@ -1,0 +1,9 @@
+@import '../..//styles/mixins';
+
+.col-xs-12 {
+  margin-bottom: 0.75rem;
+
+  @include tablet {
+    margin-bottom: 2rem;
+  }
+}

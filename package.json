@@ -44,7 +44,6 @@
     "react-dom": "^16.6.0",
     "react-helmet": "^5.2.0",
     "react-share": "^2.0.0",
-    "react-twitter-widgets": "^1.7.1",
     "url-join": "^4.0.0"
   },
   "devDependencies": {
@@ -80,11 +79,7 @@
     "serve": "gatsby serve",
     "build": "gatsby build",
     "build:pp": "gatsby build --prefix-paths",
-    "build:gh": "npm run clean && npm run build:pp && gh-pages -d public",
-    "clean": "rm -rf public && rm -rf .cache",
-    "lint:js": "eslint --ext .js,.jsx .",
-    "lint:md": "remark content/posts/",
-    "format:js": "prettier '**/*.{js,jsx}' --write"
+    "clean": "rm -rf public && rm -rf .cache"
   },
   "remarkConfig": {
     "plugins": [
