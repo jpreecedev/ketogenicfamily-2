@@ -16,15 +16,6 @@ function Header() {
             <p className="lead">Our ketogenic lifestyle learnings</p>
           </div>
         </Link>
-        <button
-          className="navbar-toggler mr-1"
-          type="button"
-          aria-controls="navbarText"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span className="navbar-toggler-icon" />
-        </button>
       </nav>
     </header>
   )
