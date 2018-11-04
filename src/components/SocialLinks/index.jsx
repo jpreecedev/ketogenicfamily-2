@@ -19,7 +19,7 @@ import {
 } from 'react-share'
 import urljoin from 'url-join'
 import config from '../../../data/SiteConfig'
-import './SocialLinks.scss'
+import './styles.scss'
 
 function SocialLinks({ postNode, postPath, mobile }) {
   const post = postNode.frontmatter

@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
-import UserLinks from '../UserLinks/UserLinks'
-import './Footer.scss'
+import UserLinks from '../UserLinks'
+import './styles.scss'
 
 function Footer({ config }) {
   const url = config.siteRss

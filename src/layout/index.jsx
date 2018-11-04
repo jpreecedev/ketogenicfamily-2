@@ -1,7 +1,9 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import config from '../../data/SiteConfig'
-import './index.scss'
+
+import '../styles/bootstrap.scss'
+import '../styles/app.scss'
 
 function MainLayout({ children }) {
   return (

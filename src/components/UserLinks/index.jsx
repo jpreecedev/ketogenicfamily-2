@@ -1,5 +1,5 @@
 import * as React from 'react'
-import './UserLinks.scss'
+import './styles.scss'
 
 class UserLinks extends React.Component {
   getLinkElements() {
