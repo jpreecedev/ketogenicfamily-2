@@ -1,0 +1,24 @@
+@import '../../scss/variables';
+
+.card {
+  cursor: pointer;
+
+  &:hover {
+    box-shadow: $shadow;
+  }
+
+  .card-text {
+    margin-bottom: 8px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+a {
+  display: block;
+  width: 100%;
+  color: #212529;
+  text-decoration: none;
+}
