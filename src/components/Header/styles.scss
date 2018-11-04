@@ -1,5 +1,19 @@
 @import '../../styles/mixins';
 
+header {
+  padding: 0;
+  background-color: #fff;
+  box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
+}
+
+header {
+  height: 50px;
+
+  @include tablet {
+    height: 113px;
+  }
+}
+
 nav {
   height: 50px;
   padding: 0.5rem 0;

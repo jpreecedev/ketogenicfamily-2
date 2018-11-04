@@ -1,0 +1,53 @@
+{
+  "key": "keto-hot-chocolate",
+  "url": "/recipes/keto-hot-chocolate",
+  "imgSrc": "/img/keto-hot-chocolate.jpg",
+  "title": "Keto Hot Chocolate",
+  "description": "Perfect winter warmer",
+  "author": "Sian Preece",
+  "published": "2017-09-30",
+  "prepTimeDisplay": "2 mins",
+  "prepTime": "PT2M",
+  "rating": 4.5,
+  "servings": {
+    "total": 1,
+    "units": "mug",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "butter",
+      "quantity": 2,
+      "units": "tablespoons",
+      "description": "butter"
+    },
+    {
+      "key": "cocoa-powder",
+      "quantity": 1,
+      "units": "tablespoons",
+      "description": "cocoa powder"
+    },
+    {
+      "key": "stevia",
+      "quantity": 1,
+      "units": "teaspoons",
+      "description": "stevia"
+    },
+    {
+      "quantity": 350,
+      "units": "ml",
+      "description": "water"
+    }
+  ],
+  "instructions": [
+    "Melt the butter, stevia and cocoa powder together then add to a jug/mixing bowl.",
+    "Blend all the ingredients together with a hand wisker whilst adding boiling hot water.",
+    "Mix together and dish out to create the base.",
+    "Once you get a frothy top it's ready."
+  ],
+  "related": [
+    "keto-sponge-cake",
+    "peanut-butter-creams",
+    "chocolate-chip-cheesecake"
+  ]
+}

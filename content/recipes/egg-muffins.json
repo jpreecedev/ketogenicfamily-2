@@ -1,0 +1,69 @@
+{
+  "key": "egg-muffins",
+  "url": "/recipes/egg-muffins",
+  "imgSrc": "/img/egg-muffins.jpg",
+  "title": "Egg Muffins",
+  "description": "Tasty, salty breakfast or packed lunch filler",
+  "author": "Sian Preece",
+  "published": "2017-11-18",
+  "prepTimeDisplay": "10 mins",
+  "prepTime": "PT10M",
+  "cookTimeDisplay": "20 mins",
+  "cookTime": "PT20M",
+  "rating": 4,
+  "servings": {
+    "total": 6,
+    "units": "muffins",
+    "showNutritionalLabel": false,
+    "nutritionUnits": "muffin",
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "egg",
+      "quantity": 6,
+      "units": "large",
+      "description": "eggs"
+    },
+    {
+      "key": "white-onion",
+      "quantity": 1,
+      "units": "white",
+      "description": "onion"
+    },
+    {
+      "key": "smoked-bacon",
+      "quantity": 4,
+      "units": "smoked bacon",
+      "description": "rashers"
+    },
+    {
+      "key": "grated-cheese",
+      "quantity": 85,
+      "units": "grams",
+      "description": "grated cheese"
+    },
+    {
+      "key": "red-pepper",
+      "quantity": 1,
+      "units": "red",
+      "description": "pepper"
+    },
+    {
+      "key": "salt",
+      "quantity": 0.25,
+      "units": "teaspoon",
+      "description": "salt & pepper"
+    }
+  ],
+  "instructions": [
+    "Chop up the onion, pepper and bacon rashers.",
+    "Fry until brown and add to a muffin tin.",
+    "Whisk the eggs, add salt & pepper and add to the muffin tin.",
+    "Sprinkle grated cheese over the top and place in the oven for 15-20 mins.."
+  ],
+  "related": [
+    "shepherds-pie",
+    "chilli-cauliflower-rice",
+    "home-made-kfc"
+  ]
+}

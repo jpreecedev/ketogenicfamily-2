@@ -1,0 +1,47 @@
+{
+  "key": "peanut-butter-creams",
+  "url": "/recipes/peanut-butter-creams",
+  "imgSrc": "/img/peanut-butter-creams.jpg",
+  "title": "Peanut butter creams",
+  "description": "Creamy, bite-sized decadent treat",
+  "author": "Sian Preece",
+  "published": "2017-09-30",
+  "prepTimeDisplay": "3 mins",
+  "prepTime": "PT3M",
+  "rating": 4,
+  "servings": {
+    "total": 6,
+    "units": "creams",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "peanut-butter",
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "peanut butter"
+    },
+    {
+      "key": "stevia",
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "stevia"
+    },
+    {
+      "key": "whipping-cream",
+      "quantity": 300,
+      "units": "ml",
+      "description": "whipping cream"
+    }
+  ],
+  "instructions": [
+    "Mix all the ingredients together with a hand mixer.",
+    "Scoop the mixture onto the cupcake tray.",
+    "Place in the freezer for an hour to set."
+  ],
+  "related": [
+    "peanut-butter-chocolate-fat-bombs",
+    "birthday-cake-for-nutters",
+    "keto-sponge-cake"
+  ]
+}

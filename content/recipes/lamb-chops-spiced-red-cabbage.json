@@ -1,0 +1,95 @@
+{
+  "key": "lamb-chops-spiced-red-cabbage",
+  "url": "/recipes/lamb-chops-spiced-red-cabbage",
+  "imgSrc": "/img/lamb-chops-spiced-red-cabbage.png",
+  "title": "Lamb chops with spiced red cabbage",
+  "description": "A homemade meal made fancy",
+  "author": "Sian Preece",
+  "published": "2017-10-24",
+  "prepTimeDisplay": "15 mins",
+  "prepTime": "PT15M",
+  "cookTimeDisplay": "180 mins",
+  "cookTime": "PT180M",
+  "rating": 5,
+  "servings": {
+    "total": 4,
+    "units": "portions",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "red-cabbage",
+      "quantity": 1,
+      "units": "large",
+      "description": "red cabbage"
+    },
+    {
+      "key": "white-onion",
+      "quantity": 1,
+      "units": "large",
+      "description": "onion"
+    },
+    {
+      "key": "garlic",
+      "quantity": 1,
+      "units": "clove",
+      "description": "garlic"
+    },
+    {
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "nutmeg"
+    },
+    {
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "cinnamon"
+    },
+    {
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "ground cloves"
+    },
+    {
+      "key": "coconut-oil",
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "coconut oil"
+    },
+    {
+      "key": "stevia",
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "stevia"
+    },
+    {
+      "key": "apple-cider-vinegar",
+      "quantity": 3,
+      "units": "tablespoons",
+      "description": "apple cider vinegar"
+    },
+    {
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "ground cloves"
+    },
+    {
+      "key": "butter",
+      "quantity": 50,
+      "units": "g",
+      "description": "butter"
+    }
+  ],
+  "instructions": [
+    "Cut up the red cabbage, then lightly blitz in a food processor. Put this to one side the do the same for the onion and garlic",
+    "In a pan, add the butter and coconut oil, followed by the cabbage, onion and garlic. Stir well.",
+    "Add in the spices, stevia and apple cider vinegar.",
+    "On a low heat, cook for 2 hours. Keep an eye on it and keep sturing.",
+    "Cover 2 lamb chops in thyme, salt and pepper. Cook on each side for a few minutes and serve."
+  ],
+  "related": [
+    "shepherds-pie",
+    "keto-lamb-meatballs",
+    "home-made-kfc"
+  ]
+}

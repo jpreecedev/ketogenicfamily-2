@@ -1,0 +1,30 @@
+%visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  clip: rect(0 0 0 0);
+}
+
+.star-rating {
+  &__star {
+    display: inline-block;
+    padding: 3px;
+    color: #ababab;
+    font-size: 1.5em;
+    line-height: 1;
+    vertical-align: middle;
+    transition: color 0.2s ease-out;
+
+    &.is-selected {
+      color: #ffd700;
+    }
+  }
+
+  &__checkbox {
+    @extend %visually-hidden;
+  }
+}

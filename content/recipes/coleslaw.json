@@ -1,0 +1,70 @@
+{
+  "key": "coleslaw",
+  "url": "/recipes/coleslaw",
+  "imgSrc": "/img/coleslaw.jpg",
+  "title": "Coleslaw",
+  "description": "A fantastic healthy side dish, which goes with pretty much anything",
+  "author": "Sian Preece",
+  "published": "2017-08-28",
+  "prepTimeDisplay": "5 mins",
+  "prepTime": "PT5M",
+  "rating": 4,
+  "servings": {
+    "total": 8,
+    "units": "servings",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "red-cabbage",
+      "quantity": 0.5,
+      "units": "large",
+      "description": "Red cabbage"
+    },
+    {
+      "key": "red-onion",
+      "quantity": 0.5,
+      "units": "large",
+      "description": "Red onion"
+    },
+    {
+      "key": "soured-cream",
+      "quantity": 1,
+      "units": "tablespoons",
+      "description": "sour cream"
+    },
+    {
+      "key": "mayonnaise",
+      "quantity": 1,
+      "units": "tablespoons",
+      "description": "mayonnaise"
+    },
+    {
+      "quantity": 0.5,
+      "units": "teaspoon",
+      "description": "tarragon"
+    },
+    {
+      "key": "balsamic-vinegar",
+      "quantity": 0.5,
+      "units": "tablespoon",
+      "description": "balsamic vinegar"
+    },
+    {
+      "key": "stevia",
+      "quantity": 0.5,
+      "units": "tablespoon",
+      "description": "stevia"
+    }
+  ],
+  "instructions": [
+    "Cut up the red cabbage into sections and individually blend in a food processor until nicely chopped. Transfer the red cabbage to a large mixing bowl and add in the chopped red onion.",
+    "Mix in sour cream, mayonnaise, tarragon, balsamic vinegar & stevia.",
+    "With a spatula, mix well and serve."
+  ],
+  "related": [
+    "fat-head-pizza",
+    "keto-lamb-meatballs",
+    "home-made-kfc"
+  ]
+}

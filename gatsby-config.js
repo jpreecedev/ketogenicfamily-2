@@ -21,6 +21,7 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-postcss`,
     'gatsby-plugin-no-sourcemaps',
+    `gatsby-transformer-json`,
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -32,7 +33,14 @@ module.exports = {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'posts',
-        path: `${__dirname}/content/`
+        path: `${__dirname}/content/posts/`
+      }
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'recipes',
+        path: `${__dirname}/content/recipes/`
       }
     },
     {

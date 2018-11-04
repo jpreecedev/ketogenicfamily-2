@@ -1,0 +1,54 @@
+{
+  "key": "peanut-butter-chocolate-fat-bombs",
+  "url": "/recipes/peanut-butter-chocolate-fat-bombs",
+  "imgSrc": "/img/peanut-butter-chocolate-fat-bombs.jpg",
+  "title": "Peanut butter & chocolate fat bombs",
+  "description": "A delicious, high fat treat that is ready in minutes",
+  "author": "Sian Preece",
+  "published": "2017-08-28",
+  "prepTimeDisplay": "3 mins",
+  "prepTime": "PT3M",
+  "rating": 5,
+  "servings": {
+    "total": 4,
+    "units": "servings",
+    "nutritionUnits": "bomb",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "peanut-butter",
+      "quantity": 3,
+      "units": "tablespoons",
+      "description": "peanut butter"
+    },
+    {
+      "key": "coconut-oil",
+      "quantity": 3,
+      "units": "tablespoons",
+      "description": "coconut oil"
+    },
+    {
+      "key": "cocoa-powder",
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "cocoa powder"
+    },
+    {
+      "key": "salt",
+      "quantity": 1,
+      "units": "pinch",
+      "description": "salt"
+    }
+  ],
+  "instructions": [
+    "Add all the ingredients to a bowl and mix for 30 seconds to one minute",
+    "Pour mixture into a cup-cake dish",
+    "Freeze for at least 20 minutes to 1 hour"
+  ],
+  "related": [
+    "peanut-butter-creams",
+    "birthday-cake-for-nutters",
+    "keto-muffins"
+  ]
+}

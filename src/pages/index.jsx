@@ -1,19 +1,21 @@
 import * as React from 'react'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
+
 import Layout from '../layout'
-import PostListing from '../components/PostListing'
 import SEO from '../components/SEO'
+import Masonry from '../components/Masonry'
 import config from '../../data/SiteConfig'
 
 function Index({ data }) {
-  const postEdges = data.allMarkdownRemark.edges
+  const cards = data.allOverviewJson.edges.map(edge => edge.node)
   return (
     <Layout>
-      <div className="index-container">
-        <Helmet title={config.siteTitle} />
-        <SEO />
-        <PostListing postEdges={postEdges} />
+      <Helmet title={config.siteTitle} />
+      <SEO />
+      <div className="container">
+        <h2 className="display-2">Latest recipes</h2>
+        <Masonry cards={cards} />
       </div>
     </Layout>
   )
@@ -21,24 +23,20 @@ function Index({ data }) {
 
 export default Index
 
-/* eslint no-undef: "off" */
 export const pageQuery = graphql`
   query IndexQuery {
-    allMarkdownRemark(limit: 2000, sort: { fields: [fields___date], order: DESC }) {
+    allOverviewJson(limit: 2000, sort: { fields: [lastUpdated], order: DESC }) {
       edges {
         node {
-          fields {
-            slug
-            date
-          }
-          excerpt
-          timeToRead
-          frontmatter {
-            title
-            tags
-            cover
-            date
-          }
+          url
+          key
+          imgSrc
+          imgAlt
+          title
+          description
+          rating
+          lastUpdated
+          id
         }
       }
     }

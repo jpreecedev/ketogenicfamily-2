@@ -1,0 +1,53 @@
+{
+  "key": "raspberry-jelly-fat-bombs",
+  "url": "/recipes/raspberry-jelly-fat-bombs",
+  "imgSrc": "/img/raspberry-jelly-fat-bombs.jpg",
+  "title": "Raspberry Jelly Fat Bombs",
+  "description": "Raspberry jelly high fat snack for the whole family",
+  "author": "Sian Preece",
+  "published": "2017-10-28",
+  "prepTimeDisplay": "5 mins",
+  "prepTime": "PT5M",
+  "cookTimeDisplay": "120 mins",
+  "cookTime": "PT120M",
+  "rating": 4,
+  "servings": {
+    "total": 6,
+    "units": "bombs",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "sugar-free-raspberry-jelly",
+      "quantity": 1,
+      "units": "packet",
+      "description": "sugar free raspberry jelly"
+    },
+    {
+      "quantity": 0.5,
+      "units": "pint",
+      "description": "cold water"
+    },
+    {
+      "quantity": 0.5,
+      "units": "pint",
+      "description": "boiling water"
+    }, {
+      "key": "whipping-cream",
+      "quantity": 300,
+      "units": "ml",
+      "description": "whipping cream"
+    }
+  ],
+  "instructions": [
+    "Pour contents of 1 sachet into a jug/bowl.",
+    "Add 1/2 pint (285 ml) of boiling water and stir until dissolved",
+    "Slowly pour in the whipping cream whilst sturing",
+    "Add 1/2 pint (285 ml) of cold water, stir then pour into mould/serving dish."
+  ],
+  "related": [
+    "peanut-butter-chocolate-fat-bombs",
+    "easy-trifle",
+    "keto-hot-chocolate"
+  ]
+}

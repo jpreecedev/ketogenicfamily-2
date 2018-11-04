@@ -1,0 +1,76 @@
+{
+  "key": "fat-head-pizza",
+  "url": "/recipes/fat-head-pizza",
+  "imgSrc": "/img/fat-head-pizza.jpg",
+  "title": "Fat Head Pizza",
+  "description": "Ridiculously nice pizza",
+  "author": "Jon Preece",
+  "published": "2017-08-28",
+  "prepTimeDisplay": "10 mins",
+  "prepTime": "PT10M",
+  "cookTimeDisplay": "20 mins",
+  "cookTime": "PT20M",
+  "rating": 5,
+  "servings": {
+    "total": 6,
+    "units": "slices",
+    "showNutritionalLabel": false,
+    "nutritionUnits": "slice",
+    "adjustable": false
+  },
+  "ingredients": [{
+      "key": "grated-cheese",
+      "quantity": 1.5,
+      "units": "cups",
+      "description": "shredded mozzarella cheese"
+    },
+    {
+      "key": "almond-flour",
+      "quantity": 0.75,
+      "units": "cups",
+      "description": "almond flour"
+    },
+    {
+      "key": "cream-cheese",
+      "quantity": 2,
+      "units": "tablespoons",
+      "description": "cream cheese"
+    },
+    {
+      "key": "sundried-tomato-paste",
+      "quantity": 3,
+      "units": "tablespoons",
+      "description": "sundried tomato paste"
+    },
+    {
+      "key": "egg",
+      "quantity": 1,
+      "units": "large",
+      "description": "egg"
+    },
+    {
+      "key": "garlic-salt",
+      "quantity": 1,
+      "units": "teaspoon",
+      "description": "garlic salt"
+    }
+  ],
+  "instructions": [
+    "Put mozzarella & cream cheese in a medium size microwaveable bowl",
+    "Microwave for 1 min, stir and then another 30 sec, stir (very hot!)",
+    "Stir in egg & almond flour",
+    "Wet hands and spread “dough” thin on parchment paper. It should spread evenly with dough-like consistency (if “stringy” then your cheese has hardened too much—just put it back in the microwave for maybe another 20 seconds)",
+    "Dock (poke rows of holes) with a fork to avoid bubbling",
+    "Sprinkle with garlic salt",
+    "Put in 425 degree oven.  After about 8 minutes, check it and poke holes where any large bubbles may be.",
+    "Continue cooking for a total 12-14 min, or until slightly brown on top.",
+    "Add a think layer of sundried tomato paste",
+    "Optional.  Add toppings to suit.  Our favourites are; cheese, chorizo, bacon, salami, pepperoni, onion.",
+    "Put back in oven for 5 minutes or until golden brown"
+  ],
+  "related": [
+    "simple-cheese-pizza",
+    "keto-nacho-pizza",
+    "home-made-kfc"
+  ]
+}

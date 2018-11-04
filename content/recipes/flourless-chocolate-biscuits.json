@@ -1,0 +1,66 @@
+{
+  "key": "flourless-chocolate-biscuits",
+  "imgSrc": "/img/flourless-chocolate-biscuits.png",
+  "title": "Flourless chocolate biscuits",
+  "description": "A soft, light, chocolatey biscuit",
+  "author": "Sian Preece",
+  "published": "2017-10-24",
+  "prepTimeDisplay": "5 mins",
+  "prepTime": "PT5M",
+  "cookTimeDisplay": "15 mins",
+  "cookTime": "PT15M",
+  "rating": 4,
+  "servings": {
+    "total": 12,
+    "units": "biscuits",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "cocoa-powder",
+      "quantity": 45,
+      "units": "g",
+      "description": "cocoa powder"
+    },
+    {
+      "key": "stevia",
+      "quantity": 50,
+      "units": "g",
+      "description": "stevia"
+    },
+    {
+      "key": "butter",
+      "quantity": 60,
+      "units": "g",
+      "description": "butter"
+    },
+    {
+      "key": "cream-cheese",
+      "quantity": 60,
+      "units": "g",
+      "description": "cream cheese"
+    },
+    {
+      "key": "egg",
+      "quantity": 2,
+      "units": "large",
+      "description": "eggs"
+    },
+    {
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "vanilla extract"
+    }
+  ],
+  "instructions": [
+    "With a hand blender, mix together the cream cheese and stevia until smooth",
+    "Add in the eggs, melted butter and vanilla extract.",
+    "Add in the cocoa powder and whisk until all mixed together.",
+    "On a stick proof tray, spoon out the mixture and bake for 10-15 minutes."
+  ],
+  "related": [
+    "chocolate-chip-cheesecake",
+    "keto-hot-chocolate",
+    "keto-sponge-cake"
+  ]
+}

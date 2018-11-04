@@ -1,0 +1,47 @@
+{
+  "key": "garlic-butter",
+  "url": "/recipes/garlic-butter",
+  "imgSrc": "/img/garlic-butter.jpg",
+  "title": "Garlic Butter",
+  "description": "A simple keto side dish",
+  "author": "Sian Preece",
+  "published": "2017-10-28",
+  "prepTimeDisplay": "2 mins",
+  "prepTime": "PT2M",
+  "rating": 5,
+  "servings": {
+    "total": 4,
+    "units": "servings",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "butter",
+      "quantity": 150,
+      "units": "g",
+      "description": "butter"
+    },
+    {
+      "key": "garlic",
+      "quantity": 1,
+      "units": "cloves",
+      "description": "garlic"
+    },
+    {
+      "key": "salt",
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "salt"
+    }
+  ],
+  "instructions": [
+    "Finely chop the garlic and melt the butter.",
+    "Then mix all together, add in the salt and pour mixture into a mould.",
+    "Leave to set in the fridge for 30 minutes"
+  ],
+  "related": [
+    "coleslaw",
+    "fat-head-sausage-rolls",
+    "keto-nacho-pizza"
+  ]
+}

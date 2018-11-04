@@ -1,0 +1,76 @@
+{
+  "key": "sticky-muffins",
+  "url": "/recipes/sticky-muffins",
+  "imgSrc": "/img/sticky-muffins.jpg",
+  "title": "Sticky Muffins",
+  "description": "A donut like textured light and fluffy sticky sweet muffins",
+  "author": "Sian Preece",
+  "published": "2017-10-28",
+  "prepTimeDisplay": "10 mins",
+  "prepTime": "PT10M",
+  "cookTimeDisplay": "18 mins",
+  "cookTime": "PT18M",
+  "rating": 5,
+  "servings": {
+    "total": 6,
+    "units": "muffins",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "almonds",
+      "quantity": 1,
+      "units": "cup",
+      "description": "Almond flour"
+    },
+    {
+      "key": "stevia",
+      "quantity": 0.33,
+      "units": "cup",
+      "description": "stevia"
+    },
+    {
+      "quantity": 2,
+      "units": "teaspoons",
+      "description": "baking powder"
+    }, {
+      "quantity": 1,
+      "units": "teaspoon",
+      "description": "cinnamon"
+    },
+    {
+      "key": "salt",
+      "quantity": 1,
+      "units": "teaspoon",
+      "description": "salt"
+    },
+    {
+      "key": "butter",
+      "quantity": 32,
+      "units": "g",
+      "description": "butter"
+    },
+    {
+      "key": "soya-milk",
+      "quantity": 32,
+      "units": "g",
+      "description": "soya milk"
+    },
+    {
+      "key": "egg",
+      "quantity": 1,
+      "units": "large",
+      "description": "egg"
+    }
+  ],
+  "instructions": [
+    "Mix the almond flour, stevia, baking powder, cinnamon and sea salt altogether in a bowl",
+    "In another bowl, mix together melted butter, soya milk and the egg. Then pour this into the other bowl and mix well.",
+    "Transfer the mixture into a muffin tin. Cook for 15-18 minutes."
+  ],
+  "related": [
+    "peanut-butter-creams",
+    "keto-sponge-cake",
+    "easy-trifle"
+  ]
+}

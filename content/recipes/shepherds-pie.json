@@ -1,0 +1,97 @@
+{
+  "key": "shepherds-pie",
+  "url": "/recipes/shepherds-pie",
+  "imgSrc": "/img/shepherds-pie.jpg",
+  "title": "Shepherd's Pie",
+  "description": "A classic meal, keto style",
+  "author": "Sian Preece",
+  "published": "2017-08-28",
+  "prepTimeDisplay": "15 mins",
+  "prepTime": "PT15M",
+  "cookTimeDisplay": "30 mins",
+  "cookTime": "PT30M",
+  "rating": 4,
+  "servings": {
+    "total": 4,
+    "units": "servings",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "lamb-mince",
+      "quantity": 500,
+      "units": "g",
+      "description": "lamb mince"
+    },
+    {
+      "key": "white-onion",
+      "quantity": 1,
+      "units": "cup",
+      "description": "white onion"
+    },
+    {
+      "key": "spinach",
+      "quantity": 3,
+      "units": "cups",
+      "description": "spinach"
+    },
+    {
+      "key": "salt",
+      "quantity": 1,
+      "units": "pinch",
+      "description": "Salt and Pepper"
+    },
+    {
+      "key": "garlic",
+      "quantity": 3,
+      "units": "cloves",
+      "description": "crushed garlic"
+    },
+    {
+      "key": "lemon-juice",
+      "quantity": 1,
+      "units": "teaspoon",
+      "description": "lemon juice"
+    },
+    {
+      "quantity": 1,
+      "units": "teaspoon",
+      "description": "mixed herbs"
+    },
+    {
+      "key": "cauliflower",
+      "quantity": 300,
+      "units": "g",
+      "description": "cauliflower florets"
+    },
+    {
+      "key": "butter",
+      "quantity": 2,
+      "units": "tablespoons",
+      "description": "butter"
+    },
+    {
+      "key": "grated-cheese",
+      "quantity": 3,
+      "units": "cups",
+      "description": "grated cheese"
+    },
+    {
+      "key": "extra-thick-cream",
+      "quantity": 1,
+      "units": "cup",
+      "description": "heavy cream"
+    }
+  ],
+  "instructions": [
+    "On a medium high heat add a large blob of butter, finely chopped onion, garlic and the lamb mince. Whilst cooking, add in mixed herbs, a squirt of lemon juice, salt and pepper. Leave to simmer on a low heat",
+    "Add the defrosted cauliflower to a food processor and blend until you get a rice like consistency. In a pan melt a large blob of butter, add in the cauliflower, 1 cup of heavy cream, 3 cups of grated cheese.",
+    "Transfer the meat mixture into a deep oven tray. Spread the cauliflower mixture over the top, add grated cheese, sprinkle with salt and pepper.",
+    "Bake in the oven for 30 minutes or until slightly brown at 220C or 428F."
+  ],
+  "related": [
+    "keto-lamb-meatballs",
+    "simple-cheese-pizza",
+    "home-made-kfc"
+  ]
+}

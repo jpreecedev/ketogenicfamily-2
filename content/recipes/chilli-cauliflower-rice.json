@@ -1,0 +1,138 @@
+{
+  "key": "chilli-cauliflower-rice",
+  "url": "/recipes/chilli-cauliflower-rice",
+  "imgSrc": "/img/chilli-cauliflower-rice.jpg",
+  "title": "Chilli and cauliflower rice",
+  "description": "A great alternative for traditional Chilli con carne",
+  "author": "Sian Preece",
+  "published": "2017-09-03",
+  "prepTimeDisplay": "10 mins",
+  "prepTime": "PT10M",
+  "cookTimeDisplay": "30 mins",
+  "cookTime": "PT30M",
+  "rating": 3.5,
+  "servings": {
+    "total": 6,
+    "units": "muffins",
+    "adjustable": true
+  },
+  "ingredients": [{
+      "groupTitle": "Chilli",
+      "ingredients": [{
+          "key": "beef-steak-mince",
+          "quantity": 500,
+          "units": "grams",
+          "description": "beef steak mince"
+        },
+        {
+          "key": "spinach",
+          "quantity": 8,
+          "units": "cups",
+          "description": "spinach"
+        },
+        {
+          "key": "soya-beans",
+          "quantity": 2,
+          "units": "cups",
+          "description": "soya beans"
+        },
+        {
+          "key": "salsa",
+          "quantity": 1,
+          "units": "jar",
+          "description": "salsa"
+        },
+        {
+          "key": "green-pepper",
+          "quantity": 1,
+          "units": "green",
+          "description": "pepper"
+        },
+        {
+          "key": "red-pepper",
+          "quantity": 1,
+          "units": "red",
+          "description": "pepper"
+        },
+        {
+          "key": "white-onion",
+          "quantity": 1,
+          "units": "large",
+          "description": "onion"
+        },
+        {
+          "key": "coconut-oil",
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "coconut oil"
+        },
+        {
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "cumin"
+        },
+        {
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "chilli powder"
+        },
+        {
+          "key": "salt",
+          "quantity": 0.25,
+          "units": "teaspoon",
+          "description": "salt & pepper"
+        },
+        {
+          "key": "beef-stock",
+          "quantity": 1,
+          "units": "beef",
+          "description": "stock cube"
+        }
+      ]
+    },
+    {
+      "groupTitle": "Spiced Rice",
+      "ingredients": [{
+          "key": "cauliflower",
+          "quantity": 300,
+          "units": "grams",
+          "description": "cauliflower"
+        },
+        {
+          "key": "coconut-oil",
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "coconut oil"
+        },
+        {
+          "key": "salt",
+          "quantity": 0.25,
+          "units": "teaspoon",
+          "description": "salt & pepper"
+        },
+        {
+          "quantity": 1,
+          "units": "pinch",
+          "description": "cumin"
+        },
+        {
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "thyme"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    "Start by adding oil to a pan. Then add in chopped up onion and peppers. Then add in the beef - cook until brown.",
+    "Add in the spices - make sure the meat is completely covered. Then add in the salsa, spinach, soya beans and stock cube.",
+    "Leave to simmer on a low heat for 20 mins.",
+    "In a food processor, pulse the cauliflower until you have a rice like texture.",
+    "In a hot oily pan, add the cauliflower and herbs/spices. Keep stirring for 10 minutes then serve."
+  ],
+  "related": [
+    "lamb-curry-spiced-cauliflower-rice",
+    "lamb-pumpkin-curry",
+    "keto-lamb-meatballs"
+  ]
+}

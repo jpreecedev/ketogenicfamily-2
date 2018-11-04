@@ -1,0 +1,68 @@
+{
+  "key": "bean-sprouts-blue-cheese-sauce",
+  "url": "/recipes/bean-sprouts-blue-cheese-sauce",
+  "imgSrc": "/img/bean-sprouts-blue-cheese-sauce.jpg",
+  "title": "Bean sprouts with blue cheese sauce",
+  "author": "Jon Preece",
+  "published": "2017-08-28",
+  "prepTimeDisplay": "10 mins",
+  "prepTime": "PT10M",
+  "cookTimeDisplay": "5 mins",
+  "cookTime": "PT5M",
+  "description": "A buttery, cheesy, delicious meal for the whole family",
+  "rating": 3.5,
+  "servings": {
+    "total": 3,
+    "units": "servings",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [
+    {
+      "key": "beansprouts",
+      "quantity": 300,
+      "units": "g",
+      "description": "fresh beansprouts"
+    },
+    {
+      "key": "blue-cheese",
+      "quantity": 125,
+      "units": "g",
+      "description": "blue cheese"
+    },
+    {
+      "key": "cream-cheese",
+      "quantity": 125,
+      "units": "g",
+      "description": "cream cheese"
+    },
+    {
+      "key": "butter",
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "Butter"
+    },
+    {
+      "key": "bacon-lardons",
+      "quantity": 100,
+      "units": "g",
+      "description": "bacon lardons"
+    },
+    {
+      "key": "salt",
+      "quantity": 0.25,
+      "units": "teaspoon",
+      "description": "salt & pepper"
+    }
+  ],
+  "instructions": [
+    "Start by boiling the bean sprouts for 2 to 3 minutes, once cooked drain them.",
+    "In a separate pan, add a large blob of butter, the blue cheese and cream cheese. Add a pinch of salt and pepper to taste.",
+    "Transfer the bean sprouts into the cheese mixture, simmer for 2 to 3 minutes and serve."
+  ],
+  "related": [
+    "fat-head-pizza",
+    "birthday-cake-for-nutters",
+    "home-made-kfc"
+  ]
+}

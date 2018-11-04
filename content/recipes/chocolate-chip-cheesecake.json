@@ -1,0 +1,74 @@
+{
+  "key": "chocolate-chip-cheesecake",
+  "url": "/recipes/chocolate-chip-cheesecake",
+  "imgSrc": "/img/chocolate-chip-cheesecake.jpg",
+  "title": "Chocolate Chip Cheesecake",
+  "author": "Jon Preece",
+  "published": "2017-09-03",
+  "prepTimeDisplay": "5 mins",
+  "prepTime": "PT5M",
+  "description": "A delicious little something to satisfy any sweet tooth",
+  "rating": 5,
+  "servings": {
+    "total": 4,
+    "units": "servings",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "almonds",
+      "quantity": 200,
+      "units": "g",
+      "description": "almond flour"
+    },
+    {
+      "key": "butter",
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "butter"
+    },
+    {
+      "key": "cream-cheese",
+      "quantity": 250,
+      "units": "g",
+      "description": "cream cheese"
+    },
+    {
+      "key": "cocoa-powder",
+      "quantity": 1,
+      "units": "teaspoon",
+      "description": "cocoa powder"
+    },
+    {
+      "key": "whipping-cream",
+      "quantity": 300,
+      "units": "ml",
+      "description": "whipping cream"
+    },
+    {
+      "key": "stevia",
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "stevia"
+    },
+    {
+      "key": "85%-dark-chocolate",
+	    "quantity": 3,
+      "units": "squares",
+      "description": "85% dark chocolate"
+    }
+  ],
+  "instructions": [
+    "To make almond flour, blend a bag of almonds in a food processor.",
+    "Transfer the blended almonds in to a bowl, add the cocoa powder and stevia.",
+    "Put the butter in the microwave for 60 seconds to melt it. Mix into the almond mixture and dish out to create the base.",
+    "In a food processor add the cream cheese and whipping cream and crumble in the dark chocolate.",
+    "Once whipped, use to cover the base. Add raspberries if desired.",
+    "Place in the fridge for an hour to set."
+  ],
+  "related": [
+    "keto-muffins",
+    "peanut-butter-chocolate-fat-bombs",
+    "peanut-butter-creams"
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "key": "lamb-pumpkin-curry",
+  "url": "/recipes/lamb-pumpkin-curry",
+  "imgSrc": "/img/lamb-pumpkin-curry.jpg",
+  "title": "Lamb and pumpkin curry",
+  "description": "Lamb curry with a twist",
+  "author": "Sian Preece",
+  "published": "2017-11-13",
+  "prepTimeDisplay": "15 mins",
+  "prepTime": "PT15M",
+  "cookTimeDisplay": "30 mins",
+  "cookTime": "PT30M",
+  "rating": 3.5,
+  "servings": {
+    "total": 4,
+    "units": "servings",
+    "adjustable": true
+  },
+  "ingredients": [{
+      "groupTitle": "Lamb and pumpkin curry",
+      "ingredients": [{
+          "key": "diced-lamb",
+          "quantity": 300,
+          "units": "grams",
+          "description": "diced lamb"
+        },
+        {
+          "key": "garlic",
+          "quantity": 3,
+          "units": "crushed",
+          "description": "garlic cloves"
+        },
+        {
+          "key": "red-pepper",
+          "quantity": 1,
+          "units": "large",
+          "description": "red pepper"
+        },
+        {
+          "key": "soya-beans",
+          "quantity": 2,
+          "units": "cups",
+          "description": "soya beans"
+        },
+        {
+          "key": "white-onion",
+          "quantity": 1,
+          "units": "large",
+          "description": "white onion"
+        },
+        {
+          "key": "coconut-milk",
+          "quantity": 400,
+          "units": "ml",
+          "description": "coconut milk"
+        },
+        {
+          "key": "salsa",
+          "quantity": 300,
+          "units": "grams",
+          "description": "salsa"
+        },
+        {
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "ground cloves"
+        },
+        {
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "tumeric"
+        },
+        {
+          "key": "coconut-oil",
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "coconut oil"
+        },
+        {
+          "key": "pumpkin-puree",
+          "quantity": 425,
+          "units": "grams",
+          "description": "pumpkin puree"
+        },
+        {
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "cumin"
+        },
+        {
+          "key": "salt",
+          "quantity": 0.25,
+          "units": "teaspoon",
+          "description": "salt & pepper"
+        }
+      ]
+    },
+    {
+      "groupTitle": "Spiced Rice",
+      "ingredients": [{
+        "key": "cauliflower",
+          "quantity": 300,
+          "units": "grams",
+          "description": "cauliflower"
+        },
+        {
+          "key": "coconut-oil",
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "coconut oil"
+        },
+        {
+          "quantity": 1,
+          "units": "cup",
+          "description": "coconut flakes"
+        },
+        {
+          "key": "sesame-seeds",
+          "quantity": 1,
+          "units": "cup",
+          "description": "sesame seeds"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    "Chop up the onion and garlic and cook in a hot oily pan",
+    "Then add in the lamb and spices.",
+    "Once cooked, add in the coconut milk,salsa, stock cube and spinach.",
+    "Leave to simmer on a low heat for 20 mins.",
+    "In a food processor, pulse the cauliflower until you have a rice like texture.",
+    "In a hot oily pan, add the cauliflower, seeds, spices and stock. Leave to simmer for 10 minutes then serve."
+  ],
+  "related": [
+    "peanut-butter-chocolate-fat-bombs",
+    "birthday-cake-for-nutters",
+    "keto-hot-chocolate"
+  ]
+}

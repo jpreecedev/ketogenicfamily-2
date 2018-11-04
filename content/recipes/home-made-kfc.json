@@ -1,0 +1,77 @@
+{
+  "key": "home-made-kfc",
+  "url": "/recipes/home-made-kfc",
+  "imgSrc": "/img/home-made-kfc.jpg",
+  "title": "Home Made KFC",
+  "description": "Who doesn't love KFC?  Now you can enjoy it in your own home for a fraction of the cost.",
+  "author": "Jon Preece",
+  "published": "2017-08-28",
+  "prepTimeDisplay": "10 mins",
+  "prepTime": "PT10M",
+  "cookTimeDisplay": "45 mins",
+  "cookTime": "PT45M",
+  "rating": 4,
+  "servings": {
+    "total": 4,
+    "units": "servings",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "chicken-thighs-skin-on",
+      "quantity": 4,
+      "units": "large",
+      "description": "Chicken thighs (skin on)"
+    },
+    {
+      "key": "chicken-legs-skin-on",
+      "quantity": 4,
+      "units": "large",
+      "description": "Chicken legs (skin on)"
+    },
+    {
+      "key": "almonds",
+      "quantity": 200,
+      "units": "g",
+      "description": "almond flour"
+    },
+    {
+      "quantity": 2,
+      "units": "teaspoons",
+      "description": "ginger"
+    },
+    {
+      "quantity": 2,
+      "units": "teaspoons",
+      "description": "parsley"
+    },
+    {
+      "quantity": 2,
+      "units": "teaspoons",
+      "description": "paprika"
+    },
+    {
+      "quantity": 2,
+      "units": "teaspoons",
+      "description": "chilli powder"
+    },
+    {
+      "key": "salt",
+      "quantity": 1,
+      "units": "pinch",
+      "description": "Salt and Pepper"
+    }
+  ],
+  "instructions": [
+    "Put the ground almonds and all the herbs and spices into a plastic food bag, twist the top and shake to mix.",
+    "Add the chicken drumsticks, twist the top, shake and rub the mixture through the bag onto the chicken.",
+    "In a baking dish, add enough olive oil to cover the bottom well (1-2mm).",
+    "Place the chicken drumsticks on the oil and bake at 180C/350F for 45 minutes.",
+    "Turn 2 or 3 times while they are cooking so all the coating gets covered in the olive oil."
+  ],
+  "related": [
+    "fat-head-pizza",
+    "simple-cheese-pizza",
+    "keto-nacho-pizza"
+  ]
+}

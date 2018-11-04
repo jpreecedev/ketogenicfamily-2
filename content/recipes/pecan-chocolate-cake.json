@@ -1,0 +1,108 @@
+{
+  "key": "pecan-chocolate-cake",
+  "url": "/recipes/pecan-chocolate-cake",
+  "imgSrc": "/img/pecan-chocolate-cake.jpg",
+  "title": "Pecan chocolate cake",
+  "description": "A perfect, fatty, pecan chocolate cake",
+  "author": "Sian Preece",
+  "published": "2017-09-03",
+  "prepTimeDisplay": "10 mins",
+  "prepTime": "PT10M",
+  "cookTimeDisplay": "2 hours",
+  "cookTime": "PT120M",
+  "rating": 5,
+  "servings": {
+    "total": 12,
+    "units": "slices"
+  },
+  "ingredients": [{
+      "groupTitle": "Bottom Layer",
+      "ingredients": [{
+          "quantity": 1,
+          "units": "sheet",
+          "description": "gelatine"
+        },
+        {
+          "key": "peanut-butter",
+          "quantity": 5,
+          "units": "tablespoons",
+          "description": "peanut butter"
+        },
+        {
+          "key": "soya-milk",
+          "quantity": 5,
+          "units": "tablespoons",
+          "description": "soya milk"
+        },
+        {
+          "key": "stevia",
+          "quantity": 5,
+          "units": "teaspoons",
+          "description": "stevia"
+        }
+      ]
+    },
+    {
+      "groupTitle": "Middle Layer",
+      "ingredients": [{
+          "key": "peanut-butter",
+          "quantity": 5,
+          "units": "tablespoons",
+          "description": "peanut butter"
+        },
+        {
+          "key": "butter",
+          "quantity": 3,
+          "units": "tablespoons",
+          "description": "butter"
+        },
+        {
+          "quantity": 2,
+          "units": "tablespoons",
+          "description": "sugar free maple syrup"
+        },
+        {
+          "key": "pecan-nuts",
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "pecan nuts"
+        }
+      ]
+    },
+    {
+      "groupTitle": "Top Layer",
+      "ingredients": [{
+          "key": "butter",
+          "quantity": 5,
+          "units": "tablespoons",
+          "description": "butter"
+        },
+        {
+          "key": "85%-dark-chocolate",
+          "quantity": 50,
+          "units": "grams",
+          "description": "dark chocolate"
+        },
+        {
+          "key": "stevia",
+          "quantity": 5,
+          "units": "teaspoons",
+          "description": "stevia"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    "Start by making the bottom layer of the cake. Melt peanut butter in the microwave, add in the milk, stevia and gelatine.",
+    "Mix all of this together with a hand whisk, then transfer the mixture into a cake tin and place in the freezer.",
+    "The second step is to make the middle layer. Again, melt the peanut butter in the microwave along with the butter. Add in the maple syrup and pecans. Mix this all together and put to one side.",
+    "Then to make the top layer, melt the chocolate and butter in the microwave. Add in the stevia and pecans.",
+    "Take the cake tin out of the freezer and gently pour on top the middle layer and then the top layer.",
+    "Put the tin back into the freezer for an hour until set."
+  ],
+  "related": [
+    "pumpkin-cheesecake",
+    "peanut-butter-cheesecake",
+    "keto-sponge-cake"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "key": "peanut-butter-cheesecake",
+  "url": "/recipes/peanut-butter-cheesecake",
+  "imgSrc": "/img/peanut-butter-cheesecake.jpg",
+  "title": "Peanut butter cheesecake",
+  "description": "A delicious peanut butter jelly cake",
+  "author": "Sian Preece",
+  "published": "2017-11-13",
+  "prepTimeDisplay": "15 mins",
+  "prepTime": "PT15M",
+  "rating": 5,
+  "servings": {
+    "total": 12,
+    "units": "slices",
+    "adjustable": true
+  },
+  "ingredients": [{
+      "groupTitle": "Base",
+      "ingredients": [{
+          "key": "egg",
+          "quantity": 6,
+          "units": "Large",
+          "description": "eggs"
+        },
+        {
+          "key": "walnuts",
+          "quantity": 1.5,
+          "units": "cups",
+          "description": "walnuts"
+        },
+        {
+          "key": "cocoa-powder",
+          "quantity": 0.33,
+          "units": "cup",
+          "description": "cocoa powder"
+        },
+        {
+          "key": "stevia",
+          "quantity": 0.25,
+          "units": "cup",
+          "description": "stevia"
+        },
+        {
+          "key": "butter",
+          "quantity": 5,
+          "units": "tablespoons",
+          "description": "butter"
+        }
+      ]
+    },
+    {
+      "groupTitle": "Filling",
+      "ingredients": [{
+          "key": "cream-cheese",
+          "quantity": 250,
+          "units": "g",
+          "description": "cream cheese"
+        },
+        {
+          "quantity": 1,
+          "units": "sachet",
+          "description": "gelatin"
+        },
+        {
+          "key": "whipping-cream",
+          "quantity": 300,
+          "units": "ml",
+          "description": "whipping cream"
+        },
+        {
+          "key": "stevia",
+          "quantity": 2,
+          "units": "teaspoons",
+          "description": "stevia"
+        },
+        {
+          "key": "peanut-butter",
+          "quantity": 1.25,
+          "units": "cups",
+          "description": "peanut butter"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    "Start by blending the walnuts to make the base. Then mix in butter, cocoa and stevia. Once mixed together, spread out into a cake tin.",
+    "In a food processor, blend together the cream cheese, whipping cream, peanut butter and stevia. Then in a jug, melt the gelatin, add to the mixture and blend.",
+    "Add the mixture on top of the base and put in the freezer for 15 mins. Then take out of the freezer and place in the fridge."
+  ],
+  "related": [
+    "peanut-butter-creams",
+    "birthday-cake-for-nutters",
+    "pecan-chocolate-cake"
+  ]
+}

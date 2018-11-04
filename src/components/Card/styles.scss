@@ -1,0 +1,21 @@
+@import '../../styles/variables';
+
+.card {
+  cursor: pointer;
+
+  &:hover {
+    box-shadow: $shadow;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  .card-text {
+    margin-bottom: 8px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

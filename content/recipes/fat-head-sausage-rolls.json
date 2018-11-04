@@ -1,0 +1,77 @@
+{
+  "key": "fat-head-sausage-rolls",
+  "url": "/recipes/fat-head-sausage-rolls",
+  "imgSrc": "/img/fat-head-sausage-rolls.jpg",
+  "title": "Fat head sausage rolls",
+  "description": "Crispy, chewy, cheese wrapped sausagey goodness",
+  "author": "Sian Preece",
+  "published": "2017-10-28",
+  "prepTimeDisplay": "15 mins",
+  "prepTime": "PT10M",
+  "cookTimeDisplay": "20 mins",
+  "cookTime": "PT20M",
+  "rating": 4.5,
+  "servings": {
+    "total": 6,
+    "units": "sausage rolls",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "pork-sausage",
+      "quantity": 6,
+      "units": "large",
+      "description": "pork sausages"
+    },
+    {
+      "key": "onion-salt",
+      "quantity": 1,
+      "units": "tablespoon",
+      "description": "onion salt"
+    },
+    {
+      "key": "grated-cheese",
+      "quantity": 255,
+      "units": "g",
+      "description": "grated cheese"
+    }, {
+      "key": "almonds",
+      "quantity": 128,
+      "units": "g",
+      "description": "almond flour"
+    },
+    {
+      "key": "egg",
+      "quantity": 1,
+      "units": "large",
+      "description": "egg"
+    },
+    {
+      "key": "salt",
+      "quantity": 1,
+      "units": "teaspoon",
+      "description": "salt"
+    },
+    {
+      "key": "sesame-seeds",
+      "quantity": 1,
+      "units": "teaspoon",
+      "description": "sesame seeds"
+    }
+  ],
+  "instructions": [
+    "You need to make sure your sausages are fully defrosted as the skin needs to be removed. To do this, slice the sausage down the middle and then peel back the skin slowly.",
+    "Cook the sausages until nicely brown",
+    "To make the almond flour, you will need to blend a bag of almonds. In a bowl, mix the flour, grated cheese and cream cheese. Microwave for 1 minute.",
+    "Stir then add the egg, salt and onion salt.",
+    "Between 2 pieces of baking parchment/paper, roll the mixture thinly.",
+    "Remove the top baking parchment/paper and slowly wrap the mixture around each sausage.",
+    "Place each sausage roll onto a greased oven tray, sprinkle onion salt and sesame seeds on top.",
+    "Cook for 15 minutes until golden"
+  ],
+  "related": [
+    "fat-head-pizza",
+    "lamb-chops-spiced-red-cabbage",
+    "shepherds-pie"
+  ]
+}

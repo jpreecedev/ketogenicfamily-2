@@ -9,7 +9,7 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Jumbotron from '../components/Jumbotron'
 
-function MainLayout({ children }) {
+function Layout({ children }) {
   return (
     <React.Fragment>
       <Helmet>
@@ -28,4 +28,4 @@ function MainLayout({ children }) {
   )
 }
 
-export default MainLayout
+export default Layout

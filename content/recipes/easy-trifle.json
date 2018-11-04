@@ -1,0 +1,61 @@
+{
+  "key": "easy-trifle",
+  "url": "/recipes/easy-trifle",
+  "imgSrc": "/img/easy-trifle.jpg",
+  "title": "Easy Trifle",
+  "description": "A delicious, quick and simple, creamy trifle recipe",
+  "author": "Sian Preece",
+  "published": "2017-10-28",
+  "prepTimeDisplay": "10 mins",
+  "prepTime": "PT10M",
+  "cookTimeDisplay": "10 mins",
+  "cookTime": "PT10M",
+  "rating": 4,
+  "servings": {
+    "total": 4,
+    "units": "servings",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "sugar-free-raspberry-jelly",
+      "quantity": 1,
+      "units": "packet",
+      "description": "sugar free jelly raspberry"
+    },
+    {
+      "quantity": 0.5,
+      "units": "pint",
+      "description": "cold water"
+    },
+    {
+      "quantity": 0.5,
+      "units": "pint",
+      "description": "boiling water"
+    }, {
+      "key": "whipping-cream",
+      "quantity": 300,
+      "units": "ml",
+      "description": "whipping cream"
+    },
+    {
+      "quantity": 2,
+      "units": "sheets",
+      "description": "gelatine"
+    }
+  ],
+  "instructions": [
+    "Place 2 sheets of gelatine into a jug/bowl.",
+    "Add 1/2 pint (285 ml) of boiling water and stir until dissolved",
+    "Slowly pour in the whipping cream whilst stirring",
+    "Add 1/2 pint (285 ml) of cold water, stir then pour into mould/serving dish.",
+    "Then let the cream full set for 4 hours.",
+    "Once set, to make the raspberry jelly follow the same steps as the cream but instead of using sheets of gelatine, simply empty the packet of Hartleys Sugar Free Jelly Raspberry into a jug/bowl",
+    "Let this set for an additional 4 hours, then eat!"
+  ],
+  "related": [
+    "peanut-butter-chocolate-fat-bombs",
+    "birthday-cake-for-nutters",
+    "keto-hot-chocolate"
+  ]
+}

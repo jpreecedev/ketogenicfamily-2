@@ -1,0 +1,68 @@
+{
+  "key": "keto-lamb-meatballs",
+  "url": "/recipes/keto-lamb-meatballs",
+  "imgSrc": "/img/keto-lamb-meatballs.jpg",
+  "title": "Keto Lamb Meatballs",
+  "description": "A healthy twist on an Italian classic",
+  "author": "Sian Preece",
+  "published": "2017-09-30",
+  "prepTimeDisplay": "10 mins",
+  "prepTime": "PT10M",
+  "cookTimeDisplay": "20 mins",
+  "cookTime": "PT20M",
+  "rating": 4,
+  "servings": {
+    "total": 4,
+    "units": "servings",
+    "showNutritionalLabel": false,
+    "adjustable": true
+  },
+  "ingredients": [{
+      "key": "lamb-mince",
+      "quantity": 500,
+      "units": "g",
+      "description": "Lamb mince"
+    },
+    {
+      "key": "grated-cheese",
+      "quantity": 2,
+      "units": "tablespoons",
+      "description": "grated cheese"
+    },
+    {
+      "quantity": 1,
+      "units": "teaspoon",
+      "description": "mixed herbs"
+    },
+    {
+      "key": "salt",
+      "quantity": 0.25,
+      "units": "teaspoon",
+      "description": "salt & pepper"
+    },
+    {
+      "key": "salsa",
+      "quantity": 1,
+      "units": "jar",
+      "description": "Salsa"
+    },
+    {
+      "key": "chopped-tomatoes",
+      "quantity": 1,
+      "units": "tin",
+      "description": "Chopped tomatoes"
+    }
+  ],
+  "instructions": [
+    "Mix all the ingredients together in a bowl.",
+    "Roll out into meatballs and fry in a pan.",
+    "In a casserole dish, add salsa and chopped tomatoes.",
+    "Then add in the meatballs and simmer.",
+    "Serve with grated cheese on top."
+  ],
+  "related": [
+    "bean-sprouts-blue-cheese-sauce",
+    "fat-head-pizza",
+    "shepherds-pie"
+  ]
+}
