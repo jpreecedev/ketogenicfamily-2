@@ -7,6 +7,14 @@ body {
   transition: margin-left 0.5s;
 }
 
+main {
+  margin-top: 50px;
+
+  @include tablet {
+    margin-top: 113px;
+  }
+}
+
 .bullets {
   &--triangular {
     margin: 0.75em 0;

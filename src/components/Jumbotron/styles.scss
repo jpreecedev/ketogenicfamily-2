@@ -1,0 +1,41 @@
+@import '../../styles/mixins';
+
+.jumbotron {
+  color: #fff;
+  text-align: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url('/img/banner.jpg') center top fixed;
+  background-size: cover;
+  border-radius: 0;
+
+  @include tablet {
+    padding: 10rem 2rem;
+    background-size: contain;
+  }
+
+  &.slim {
+    @include tablet {
+      padding: 2rem;
+    }
+  }
+
+  h1 {
+    font-size: 2rem;
+    text-shadow: 0 5px 10px #000;
+
+    @include tablet {
+      font-size: 3rem;
+      line-height: 1.1;
+    }
+  }
+
+  p {
+    margin-bottom: 0;
+    text-shadow: 0px 5px 10px #000;
+
+    @include tablet {
+      font-size: 1.5rem;
+      line-height: 32px;
+    }
+  }
+}
