@@ -15,7 +15,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "peanut-butter",
       "quantity": 1,
       "units": "tablespoon",
@@ -38,10 +39,5 @@
     "Mix all the ingredients together with a hand mixer.",
     "Scoop the mixture onto the cupcake tray.",
     "Place in the freezer for an hour to set."
-  ],
-  "related": [
-    "peanut-butter-chocolate-fat-bombs",
-    "birthday-cake-for-nutters",
-    "keto-sponge-cake"
   ]
 }

@@ -16,9 +16,11 @@
     "units": "servings",
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "groupTitle": "Lamb Curry",
-      "ingredients": [{
+      "ingredients": [
+        {
           "key": "diced-lamb",
           "quantity": 300,
           "units": "grams",
@@ -86,7 +88,8 @@
     },
     {
       "groupTitle": "Spiced Rice",
-      "ingredients": [{
+      "ingredients": [
+        {
           "key": "cauliflower",
           "quantity": 300,
           "units": "grams",
@@ -134,10 +137,5 @@
     "Leave to simmer on a low heat for 20 mins.",
     "In a food processor, pulse the cauliflower until you have a rice like texture.",
     "In a hot oily pan, add the cauliflower, seeds, spices and stock. Leave to simmer for 10 minutes then serve."
-  ],
-  "related": [
-    "keto-lamb-meatballs",
-    "lamb-pumpkin-curry",
-    "lamb-chops-spiced-red-cabbage"
   ]
 }

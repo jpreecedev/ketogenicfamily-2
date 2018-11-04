@@ -17,7 +17,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "almonds",
       "quantity": 1,
       "units": "cup",
@@ -33,7 +34,8 @@
       "quantity": 2,
       "units": "teaspoons",
       "description": "baking powder"
-    }, {
+    },
+    {
       "quantity": 1,
       "units": "teaspoon",
       "description": "cinnamon"
@@ -67,10 +69,5 @@
     "Mix the almond flour, stevia, baking powder, cinnamon and sea salt altogether in a bowl",
     "In another bowl, mix together melted butter, soya milk and the egg. Then pour this into the other bowl and mix well.",
     "Transfer the mixture into a muffin tin. Cook for 15-18 minutes."
-  ],
-  "related": [
-    "peanut-butter-creams",
-    "keto-sponge-cake",
-    "easy-trifle"
   ]
 }

@@ -17,7 +17,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "lamb-mince",
       "quantity": 500,
       "units": "g",
@@ -88,10 +89,5 @@
     "Add the defrosted cauliflower to a food processor and blend until you get a rice like consistency. In a pan melt a large blob of butter, add in the cauliflower, 1 cup of heavy cream, 3 cups of grated cheese.",
     "Transfer the meat mixture into a deep oven tray. Spread the cauliflower mixture over the top, add grated cheese, sprinkle with salt and pepper.",
     "Bake in the oven for 30 minutes or until slightly brown at 220C or 428F."
-  ],
-  "related": [
-    "keto-lamb-meatballs",
-    "simple-cheese-pizza",
-    "home-made-kfc"
   ]
 }

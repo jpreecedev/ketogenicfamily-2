@@ -11,6 +11,66 @@ exports.createPages = ({ graphql, actions }) => {
           {
             allRecipesJson {
               edges {
+                previous {
+                  id
+                  key
+                  url
+                  imgSrc
+                  title
+                  author
+                  published
+                  prepTimeDisplay
+                  prepTime
+                  cookTimeDisplay
+                  cookTime
+                  description
+                  rating
+                  servings {
+                    total
+                    units
+                    showNutritionalLabel
+                    adjustable
+                    nutritionUnits
+                  }
+                  ingredients {
+                    key
+                    quantity
+                    units
+                    description
+                    groupTitle
+                  }
+                  instructions
+                }
+                next {
+                  id
+                  key
+                  url
+                  imgSrc
+                  title
+                  author
+                  published
+                  prepTimeDisplay
+                  prepTime
+                  cookTimeDisplay
+                  cookTime
+                  description
+                  rating
+                  servings {
+                    total
+                    units
+                    showNutritionalLabel
+                    adjustable
+                    nutritionUnits
+                  }
+                  ingredients {
+                    key
+                    quantity
+                    units
+                    description
+                    groupTitle
+                  }
+                  instructions
+                }
                 node {
                   id
                   key
@@ -40,7 +100,6 @@ exports.createPages = ({ graphql, actions }) => {
                     groupTitle
                   }
                   instructions
-                  related
                 }
               }
             }
@@ -57,6 +116,8 @@ exports.createPages = ({ graphql, actions }) => {
             path: edge.node.url,
             component: postPage,
             context: {
+              next: edge.next,
+              previous: edge.previous,
               url: edge.node.url
             }
           })

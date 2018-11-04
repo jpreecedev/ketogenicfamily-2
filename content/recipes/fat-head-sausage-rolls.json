@@ -17,7 +17,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "pork-sausage",
       "quantity": 6,
       "units": "large",
@@ -34,7 +35,8 @@
       "quantity": 255,
       "units": "g",
       "description": "grated cheese"
-    }, {
+    },
+    {
       "key": "almonds",
       "quantity": 128,
       "units": "g",
@@ -68,10 +70,5 @@
     "Remove the top baking parchment/paper and slowly wrap the mixture around each sausage.",
     "Place each sausage roll onto a greased oven tray, sprinkle onion salt and sesame seeds on top.",
     "Cook for 15 minutes until golden"
-  ],
-  "related": [
-    "fat-head-pizza",
-    "lamb-chops-spiced-red-cabbage",
-    "shepherds-pie"
   ]
 }

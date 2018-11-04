@@ -83,12 +83,10 @@ function Recipe({ recipe }) {
             </section>
           </div>
         </div>
-        {recipe.related && (
-          <section className="mt-5" id="related">
-            <h2 className="display-2">Related Recipes</h2>
-            <Lead data={recipe.related} />
-          </section>
-        )}
+        <section className="mt-5" id="related">
+          <h2 className="display-2">Check out this recipes as well</h2>
+          <Lead data={[recipe.previous, recipe.next]} />
+        </section>
 
         <section className="mt-5" id="comments">
           <h2 className="display-2">Discussion</h2>

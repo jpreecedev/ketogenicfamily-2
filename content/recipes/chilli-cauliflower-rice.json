@@ -16,9 +16,11 @@
     "units": "muffins",
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "groupTitle": "Chilli",
-      "ingredients": [{
+      "ingredients": [
+        {
           "key": "beef-steak-mince",
           "quantity": 500,
           "units": "grams",
@@ -92,7 +94,8 @@
     },
     {
       "groupTitle": "Spiced Rice",
-      "ingredients": [{
+      "ingredients": [
+        {
           "key": "cauliflower",
           "quantity": 300,
           "units": "grams",
@@ -129,10 +132,5 @@
     "Leave to simmer on a low heat for 20 mins.",
     "In a food processor, pulse the cauliflower until you have a rice like texture.",
     "In a hot oily pan, add the cauliflower and herbs/spices. Keep stirring for 10 minutes then serve."
-  ],
-  "related": [
-    "lamb-curry-spiced-cauliflower-rice",
-    "lamb-pumpkin-curry",
-    "keto-lamb-meatballs"
   ]
 }

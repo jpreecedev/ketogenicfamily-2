@@ -15,7 +15,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "butter",
       "quantity": 2,
       "units": "tablespoons",
@@ -44,10 +45,5 @@
     "Blend all the ingredients together with a hand wisker whilst adding boiling hot water.",
     "Mix together and dish out to create the base.",
     "Once you get a frothy top it's ready."
-  ],
-  "related": [
-    "keto-sponge-cake",
-    "peanut-butter-creams",
-    "chocolate-chip-cheesecake"
   ]
 }

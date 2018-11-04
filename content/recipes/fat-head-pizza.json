@@ -18,7 +18,8 @@
     "nutritionUnits": "slice",
     "adjustable": false
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "grated-cheese",
       "quantity": 1.5,
       "units": "cups",
@@ -67,10 +68,5 @@
     "Add a think layer of sundried tomato paste",
     "Optional.  Add toppings to suit.  Our favourites are; cheese, chorizo, bacon, salami, pepperoni, onion.",
     "Put back in oven for 5 minutes or until golden brown"
-  ],
-  "related": [
-    "simple-cheese-pizza",
-    "keto-nacho-pizza",
-    "home-made-kfc"
   ]
 }

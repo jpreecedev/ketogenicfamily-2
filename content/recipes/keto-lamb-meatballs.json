@@ -17,7 +17,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "lamb-mince",
       "quantity": 500,
       "units": "g",
@@ -59,10 +60,5 @@
     "In a casserole dish, add salsa and chopped tomatoes.",
     "Then add in the meatballs and simmer.",
     "Serve with grated cheese on top."
-  ],
-  "related": [
-    "bean-sprouts-blue-cheese-sauce",
-    "fat-head-pizza",
-    "shepherds-pie"
   ]
 }

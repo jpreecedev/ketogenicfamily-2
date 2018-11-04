@@ -17,7 +17,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "chicken-thighs-skin-on",
       "quantity": 4,
       "units": "large",
@@ -68,10 +69,5 @@
     "In a baking dish, add enough olive oil to cover the bottom well (1-2mm).",
     "Place the chicken drumsticks on the oil and bake at 180C/350F for 45 minutes.",
     "Turn 2 or 3 times while they are cooking so all the coating gets covered in the olive oil."
-  ],
-  "related": [
-    "fat-head-pizza",
-    "simple-cheese-pizza",
-    "keto-nacho-pizza"
   ]
 }

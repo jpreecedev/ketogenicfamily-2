@@ -15,7 +15,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "red-cabbage",
       "quantity": 0.5,
       "units": "large",
@@ -61,10 +62,5 @@
     "Cut up the red cabbage into sections and individually blend in a food processor until nicely chopped. Transfer the red cabbage to a large mixing bowl and add in the chopped red onion.",
     "Mix in sour cream, mayonnaise, tarragon, balsamic vinegar & stevia.",
     "With a spatula, mix well and serve."
-  ],
-  "related": [
-    "fat-head-pizza",
-    "keto-lamb-meatballs",
-    "home-made-kfc"
   ]
 }

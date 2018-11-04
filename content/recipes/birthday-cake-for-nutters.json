@@ -18,89 +18,98 @@
     "nutritionUnits": "servings",
     "adjustable": false
   },
-  "ingredients": [{
-    "groupTitle": "Cake",
-    "ingredients": [{
-      "key": "stevia",
-      "quantity": 1,
-      "units": "cup",
-      "description": "Stevia"
-      }, {
-        "key": "butter",
-        "quantity": 0.75,
-        "units": "cup",
-        "description": "Butter"
-      }, {
-        "key": "egg",
-        "quantity": 8,
-        "units": "large",
-        "description": "eggs"
-      }, {
-        "key": "almond-milk",
-        "quantity": 0.5,
-        "units": "cup",
-        "description": "Almond Milk"
-      }, {
-        "quantity": 1,
-        "units": "tablespoon",
-        "description": "Vanilla Extract"
-      }, {
-        "key": "brazil-nuts",
-        "quantity": 1.5,
-        "units": "cups",
-        "description": "Brazil Flour"
-      }, {
-        "key": "walnuts",
-        "quantity": 1.5,
-        "units": "cups",
-        "description": "Walnut Flour"
-      }, {
-        "key": "coconut-flour",
-        "quantity": 0.5,
-        "units": "cup",
-        "description": "Coconut Flour"
-      }, {
-        "quantity": 1.5,
-        "units": "tablespoons",
-        "description": "Baking Powder"
-      }]
-  }, {
-    "groupTitle": "Icing",
-    "ingredients": [{
-        "key": "cream-cheese",
-        "quantity": 900,
-        "units": "g",
-        "description": "Cream Cheese"
-      },
-      {
-        "key": "butter",
-        "quantity": 0.33,
-        "units": "cup",
-        "description": "Butter"
-      },
-      {
-        "key": "stevia",
-        "quantity": 0.66,
-        "units": "cup",
-        "description": "Stevia"
-      },
-      {
-        "quantity": 1,
-        "units": "tablespoon",
-        "description": "Vanilla Extract"
-      }
-    ]
-  }],
+  "ingredients": [
+    {
+      "groupTitle": "Cake",
+      "ingredients": [
+        {
+          "key": "stevia",
+          "quantity": 1,
+          "units": "cup",
+          "description": "Stevia"
+        },
+        {
+          "key": "butter",
+          "quantity": 0.75,
+          "units": "cup",
+          "description": "Butter"
+        },
+        {
+          "key": "egg",
+          "quantity": 8,
+          "units": "large",
+          "description": "eggs"
+        },
+        {
+          "key": "almond-milk",
+          "quantity": 0.5,
+          "units": "cup",
+          "description": "Almond Milk"
+        },
+        {
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "Vanilla Extract"
+        },
+        {
+          "key": "brazil-nuts",
+          "quantity": 1.5,
+          "units": "cups",
+          "description": "Brazil Flour"
+        },
+        {
+          "key": "walnuts",
+          "quantity": 1.5,
+          "units": "cups",
+          "description": "Walnut Flour"
+        },
+        {
+          "key": "coconut-flour",
+          "quantity": 0.5,
+          "units": "cup",
+          "description": "Coconut Flour"
+        },
+        {
+          "quantity": 1.5,
+          "units": "tablespoons",
+          "description": "Baking Powder"
+        }
+      ]
+    },
+    {
+      "groupTitle": "Icing",
+      "ingredients": [
+        {
+          "key": "cream-cheese",
+          "quantity": 900,
+          "units": "g",
+          "description": "Cream Cheese"
+        },
+        {
+          "key": "butter",
+          "quantity": 0.33,
+          "units": "cup",
+          "description": "Butter"
+        },
+        {
+          "key": "stevia",
+          "quantity": 0.66,
+          "units": "cup",
+          "description": "Stevia"
+        },
+        {
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "Vanilla Extract"
+        }
+      ]
+    }
+  ],
   "instructions": [
     "In a food processor, blend the butter and stevia until fluffy.",
     "Whilst the blender is running, add in the eggs one at a time, then the almond milk and then the vanilla extract.",
     "Add in the brazil flour & walnut flour, coconut flour and baking powder.",
     "Transfer the mixture into a greased cake tin and bake for 18-20 minutes. To test the mixture is cooked in the middle, stick a toothpick in the middle and if it comes out clean, it's ready.",
     "Whilst the cake is cooking, in a food processor blend together the cream cheese, butter, stevia and vanilla extract until smooth."
-  ],
-  "related": [
-    "chocolate-chip-cheesecake",
-    "keto-hot-chocolate",
-    "keto-sponge-cake"
   ]
 }

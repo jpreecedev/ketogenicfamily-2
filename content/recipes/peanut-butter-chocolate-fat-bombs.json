@@ -16,7 +16,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "peanut-butter",
       "quantity": 3,
       "units": "tablespoons",
@@ -45,10 +46,5 @@
     "Add all the ingredients to a bowl and mix for 30 seconds to one minute",
     "Pour mixture into a cup-cake dish",
     "Freeze for at least 20 minutes to 1 hour"
-  ],
-  "related": [
-    "peanut-butter-creams",
-    "birthday-cake-for-nutters",
-    "keto-muffins"
   ]
 }

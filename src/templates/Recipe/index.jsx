@@ -10,9 +10,10 @@ import Recipe from '../../components/Recipe'
 
 import './styles.scss'
 
-function PostTemplate({ data: { recipesJson } }) {
+function RecipeTemplate({ pageContext: { next, previous }, data: { recipesJson } }) {
   const recipe = recipesJson
-
+  recipe.next = next
+  recipe.previous = previous
   return (
     <Layout>
       <div>
@@ -21,7 +22,6 @@ function PostTemplate({ data: { recipesJson } }) {
         </Helmet>
         <SEO />
         <div>
-          <h1>{recipe.title}</h1>
           <Recipe recipe={recipe} />
           <Disqus url={recipe.url} title={recipe.title} />
         </div>
@@ -30,7 +30,7 @@ function PostTemplate({ data: { recipesJson } }) {
   )
 }
 
-export default PostTemplate
+export default RecipeTemplate
 
 export const pageQuery = graphql`
   query RecipeBySlug($url: String!) {
@@ -63,7 +63,6 @@ export const pageQuery = graphql`
         groupTitle
       }
       instructions
-      related
     }
   }
 `

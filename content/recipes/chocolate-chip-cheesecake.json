@@ -15,7 +15,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "almonds",
       "quantity": 200,
       "units": "g",
@@ -53,7 +54,7 @@
     },
     {
       "key": "85%-dark-chocolate",
-	    "quantity": 3,
+      "quantity": 3,
       "units": "squares",
       "description": "85% dark chocolate"
     }
@@ -65,10 +66,5 @@
     "In a food processor add the cream cheese and whipping cream and crumble in the dark chocolate.",
     "Once whipped, use to cover the base. Add raspberries if desired.",
     "Place in the fridge for an hour to set."
-  ],
-  "related": [
-    "keto-muffins",
-    "peanut-butter-chocolate-fat-bombs",
-    "peanut-butter-creams"
   ]
 }

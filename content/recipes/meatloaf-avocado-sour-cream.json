@@ -15,9 +15,11 @@
     "total": 1,
     "units": "meatloaf"
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "groupTitle": "Meatloaf",
-      "ingredients": [{
+      "ingredients": [
+        {
           "key": "egg",
           "quantity": 3,
           "units": "Large",
@@ -45,7 +47,8 @@
     },
     {
       "groupTitle": "Sauce",
-      "ingredients": [{
+      "ingredients": [
+        {
           "quantity": 1,
           "units": "tablespoons",
           "description": "paprika"
@@ -75,10 +78,5 @@
     "In a food processor, blend the pork rinds. Mix together the meat, add in the pork rinds. Split the meat in half, add the first half to a bread tin and put the other half to one side.",
     "Hard boil 3 eggs, gently place them on top of the meat. Add the other half of the meat over the top.",
     "In a bowl, mix paprika, mustard and olive oil together. Pour on top of the meatloaf and cook in the oven for 50 minutes."
-  ],
-  "related": [
-    "keto-lamb-meatballs",
-    "home-made-kfc",
-    "shepherds-pie"
   ]
 }

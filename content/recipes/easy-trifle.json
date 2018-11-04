@@ -17,7 +17,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "sugar-free-raspberry-jelly",
       "quantity": 1,
       "units": "packet",
@@ -32,7 +33,8 @@
       "quantity": 0.5,
       "units": "pint",
       "description": "boiling water"
-    }, {
+    },
+    {
       "key": "whipping-cream",
       "quantity": 300,
       "units": "ml",
@@ -52,10 +54,5 @@
     "Then let the cream full set for 4 hours.",
     "Once set, to make the raspberry jelly follow the same steps as the cream but instead of using sheets of gelatine, simply empty the packet of Hartleys Sugar Free Jelly Raspberry into a jug/bowl",
     "Let this set for an additional 4 hours, then eat!"
-  ],
-  "related": [
-    "peanut-butter-chocolate-fat-bombs",
-    "birthday-cake-for-nutters",
-    "keto-hot-chocolate"
   ]
 }

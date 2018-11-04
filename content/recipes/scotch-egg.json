@@ -18,7 +18,8 @@
     "showNutritionalLabel": true,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "egg",
       "quantity": 6,
       "units": "large",
@@ -35,7 +36,8 @@
       "quantity": 500,
       "units": "g",
       "description": "pork mince"
-    }, {
+    },
+    {
       "key": "salt",
       "quantity": 1,
       "units": "teaspoon",
@@ -60,10 +62,5 @@
     "Wrap the pork mince around the egg until fully covered.",
     "Crack 2 eggs into a bowl and mix until you have no more clear bits. In another bowl, add the walnut flour. Dip each of the balls into the egg one by one and then into the walnut flour to cover them.",
     "Place in the oven for 40-50 minutes on 220 degrees."
-  ],
-  "related": [
-    "keto-lamb-meatballs",
-    "fat-head-sausage-rolls",
-    "pecan-chocolate-cake"
   ]
 }

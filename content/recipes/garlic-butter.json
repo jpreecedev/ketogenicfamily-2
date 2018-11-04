@@ -15,7 +15,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "butter",
       "quantity": 150,
       "units": "g",
@@ -38,10 +39,5 @@
     "Finely chop the garlic and melt the butter.",
     "Then mix all together, add in the salt and pour mixture into a mould.",
     "Leave to set in the fridge for 30 minutes"
-  ],
-  "related": [
-    "coleslaw",
-    "fat-head-sausage-rolls",
-    "keto-nacho-pizza"
   ]
 }

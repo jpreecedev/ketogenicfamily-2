@@ -17,7 +17,8 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "egg",
       "quantity": 6,
       "units": "Large",
@@ -51,10 +52,5 @@
     "Mix all the ingredients together in a mixing bowl with a hand mixer",
     "Grease up a muffin tray and fill each compartment with the mixture",
     "Cook in the oven for 10 minutes or until slightly brown"
-  ],
-  "related": [
-    "peanut-butter-chocolate-fat-bombs",
-    "birthday-cake-for-nutters",
-    "keto-hot-chocolate"
   ]
 }

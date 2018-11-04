@@ -18,7 +18,8 @@
     "nutritionUnits": "muffin",
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "key": "egg",
       "quantity": 6,
       "units": "large",
@@ -60,10 +61,5 @@
     "Fry until brown and add to a muffin tin.",
     "Whisk the eggs, add salt & pepper and add to the muffin tin.",
     "Sprinkle grated cheese over the top and place in the oven for 15-20 mins.."
-  ],
-  "related": [
-    "shepherds-pie",
-    "chilli-cauliflower-rice",
-    "home-made-kfc"
   ]
 }

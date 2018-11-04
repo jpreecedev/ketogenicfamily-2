@@ -15,72 +15,78 @@
     "total": 12,
     "units": "Slices"
   },
-  "ingredients": [{
-    "groupTitle": "Walnut Crust",
-    "ingredients": [{
-        "key": "walnuts",
-        "quantity": 2,
-        "units": "cups",
-        "description": "walnuts"
-      },
-      {
-        "key": "butter",
-        "quantity": 3,
-        "units": "tablespoons",
-        "description": "butter"
-      },
-      {
-        "quantity": 1,
-        "units": "teaspoon",
-        "description": "cinnamon"
-      }, {
-        "quantity": 0.5,
-        "units": "teaspoon",
-        "description": "vanilla"
-      },
-      {
-        "key": "stevia",
-        "quantity": 2,
-        "units": "teaspoon",
-        "description": "stevia"
-      }
-    ]
-  }, {
-    "groupTitle": "Filling",
-    "ingredients": [{
-      "key": "cream-cheese",
-      "quantity": 16,
-      "units": "oz",
-      "description": "cream cheese"
-    }, {
-      "key": "whipping-cream",
-      "quantity": 0.66,
-      "units": "cup",
-      "description": "whipping cream"
-    }, {
-      "key": "pumpkin-puree",
-      "quantity": 0.66,
-      "units": "cup",
-      "description": "pumpkin puree"
-    }, {
-      "quantity": 2,
-      "units": "teaspoon",
-      "description": "pumpkin spice"
-    }, {
-      "quantity": 1,
-      "units": "tablespoon",
-      "description": "vanilla"
-    }]
-  }],
+  "ingredients": [
+    {
+      "groupTitle": "Walnut Crust",
+      "ingredients": [
+        {
+          "key": "walnuts",
+          "quantity": 2,
+          "units": "cups",
+          "description": "walnuts"
+        },
+        {
+          "key": "butter",
+          "quantity": 3,
+          "units": "tablespoons",
+          "description": "butter"
+        },
+        {
+          "quantity": 1,
+          "units": "teaspoon",
+          "description": "cinnamon"
+        },
+        {
+          "quantity": 0.5,
+          "units": "teaspoon",
+          "description": "vanilla"
+        },
+        {
+          "key": "stevia",
+          "quantity": 2,
+          "units": "teaspoon",
+          "description": "stevia"
+        }
+      ]
+    },
+    {
+      "groupTitle": "Filling",
+      "ingredients": [
+        {
+          "key": "cream-cheese",
+          "quantity": 16,
+          "units": "oz",
+          "description": "cream cheese"
+        },
+        {
+          "key": "whipping-cream",
+          "quantity": 0.66,
+          "units": "cup",
+          "description": "whipping cream"
+        },
+        {
+          "key": "pumpkin-puree",
+          "quantity": 0.66,
+          "units": "cup",
+          "description": "pumpkin puree"
+        },
+        {
+          "quantity": 2,
+          "units": "teaspoon",
+          "description": "pumpkin spice"
+        },
+        {
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "vanilla"
+        }
+      ]
+    }
+  ],
   "instructions": [
     "Mix all the crust ingredients together food processor",
     "Transfer mixture to a cake tin and cook for 12-15 minutes in the oven at 220 degrees Celsius (428 degrees fahrenheit). Then remove and let cool for 20 minutes",
     "Using the food processor again, mix all the filling ingredients together then spread on top of the crust.",
     "Put in the fridge for at least 2 hours"
-  ],
-  "related": [
-    "peanut-butter-chocolate-fat-bombs",
-    "birthday-cake-for-nutters",
-    "keto-hot-chocolate"
   ]
 }

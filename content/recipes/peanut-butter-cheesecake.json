@@ -14,9 +14,11 @@
     "units": "slices",
     "adjustable": true
   },
-  "ingredients": [{
+  "ingredients": [
+    {
       "groupTitle": "Base",
-      "ingredients": [{
+      "ingredients": [
+        {
           "key": "egg",
           "quantity": 6,
           "units": "Large",
@@ -50,7 +52,8 @@
     },
     {
       "groupTitle": "Filling",
-      "ingredients": [{
+      "ingredients": [
+        {
           "key": "cream-cheese",
           "quantity": 250,
           "units": "g",
@@ -86,10 +89,5 @@
     "Start by blending the walnuts to make the base. Then mix in butter, cocoa and stevia. Once mixed together, spread out into a cake tin.",
     "In a food processor, blend together the cream cheese, whipping cream, peanut butter and stevia. Then in a jug, melt the gelatin, add to the mixture and blend.",
     "Add the mixture on top of the base and put in the freezer for 15 mins. Then take out of the freezer and place in the fridge."
-  ],
-  "related": [
-    "peanut-butter-creams",
-    "birthday-cake-for-nutters",
-    "pecan-chocolate-cake"
   ]
 }

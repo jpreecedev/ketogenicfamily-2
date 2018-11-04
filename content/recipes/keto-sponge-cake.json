@@ -17,61 +17,76 @@
     "showNutritionalLabel": false,
     "adjustable": true
   },
-  "ingredients": [{
-    "groupTitle": "Sponge",
-    "ingredients": [{
-      "key": "ricotta",
-      "quantity": 250,
-      "units": "g",
-      "description": "ricotta"
-    }, {
-      "key": "stevia",
-      "quantity": 1,
-      "units": "tablespoon",
-      "description": "stevia"
-    }, {
-      "key": "egg",
-      "quantity": 3,
-      "units": "large",
-      "description": "eggs"
-    }, {
-      "key": "butter",
-      "quantity": 100,
-      "units": "g",
-      "description": "butter"
-    }, {
-      "key": "pecan-nuts",
-      "quantity": 70,
-      "units": "g",
-      "description": "pecan flour"
-    }, {
-      "quantity": 2,
-      "units": "tablespoons",
-      "description": "baking powder"
-    }, {
-      "key": "salt",
-      "quantity": 1,
-      "units": "teaspoon",
-      "description": "Himalayan pink salt"
-    }]
-  }, {
-    "groupTitle": "Topping",
-    "ingredients": [{
-      "key": "whipping-cream",
-      "quantity": 150,
-      "units": "ml",
-      "description": "Whipping Cream"
-    }, {
-      "quantity": 1,
-      "units": "teaspoon",
-      "description": "vanilla extract"
-    }, {
-      "key": "raspberries",
-      "quantity": 1,
-      "units": "cup",
-      "description": "raspberries"
-    }]
-  }],
+  "ingredients": [
+    {
+      "groupTitle": "Sponge",
+      "ingredients": [
+        {
+          "key": "ricotta",
+          "quantity": 250,
+          "units": "g",
+          "description": "ricotta"
+        },
+        {
+          "key": "stevia",
+          "quantity": 1,
+          "units": "tablespoon",
+          "description": "stevia"
+        },
+        {
+          "key": "egg",
+          "quantity": 3,
+          "units": "large",
+          "description": "eggs"
+        },
+        {
+          "key": "butter",
+          "quantity": 100,
+          "units": "g",
+          "description": "butter"
+        },
+        {
+          "key": "pecan-nuts",
+          "quantity": 70,
+          "units": "g",
+          "description": "pecan flour"
+        },
+        {
+          "quantity": 2,
+          "units": "tablespoons",
+          "description": "baking powder"
+        },
+        {
+          "key": "salt",
+          "quantity": 1,
+          "units": "teaspoon",
+          "description": "Himalayan pink salt"
+        }
+      ]
+    },
+    {
+      "groupTitle": "Topping",
+      "ingredients": [
+        {
+          "key": "whipping-cream",
+          "quantity": 150,
+          "units": "ml",
+          "description": "Whipping Cream"
+        },
+        {
+          "quantity": 1,
+          "units": "teaspoon",
+          "description": "vanilla extract"
+        },
+        {
+          "key": "raspberries",
+          "quantity": 1,
+          "units": "cup",
+          "description": "raspberries"
+        }
+      ]
+    }
+  ],
   "instructions": [
     "To make pecan flour, blend a bag of pecans in a food processor and put this to one side.",
     "Put the butter in the microwave for 60 seconds to melt it and set aside to cool down.",
@@ -80,10 +95,5 @@
     "Add the flour, baking power and salt. Whisk.",
     "Pour the mix into a cupcake tin and bake for 30 mins until golden brown.",
     "Once the sponge is cooked, whip up the cream, add in the vanilla extract and serve with raspberries"
-  ],
-  "related": [
-    "peanut-butter-chocolate-fat-bombs",
-    "birthday-cake-for-nutters",
-    "home-made-kfc"
   ]
 }

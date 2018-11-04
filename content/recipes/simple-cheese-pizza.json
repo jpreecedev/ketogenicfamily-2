@@ -18,42 +18,50 @@
     "nutritionUnits": "slice",
     "adjustable": false
   },
-  "ingredients": [{
-    "key": "mozzarella",
-    "quantity": 1.5,
-    "units": "cups",
-    "description": "shredded mozzarella cheese"
-  }, {
-    "key": "brazil-nuts",
-    "quantity": 0.33,
-    "units": "cups",
-    "description": "brazil flour"
-  }, {
-    "key": "pecan-nuts",
-    "quantity": 0.33,
-    "units": "cups",
-    "description": "pecan flour"
-  }, {
-    "key": "cream-cheese",
-    "quantity": 2,
-    "units": "tablespoons",
-    "description": "cream cheese"
-  }, {
-    "key": "egg",
-    "quantity": 1,
-    "units": "large",
-    "description": "egg"
-  }, {
-    "key": "salsa",
-    "quantity": 1,
-    "units": "jar",
-    "description": "salsa"
-  }, {
-    "key": "garlic-salt",
-    "quantity": 1,
-    "units": "teaspoon",
-    "description": "garlic salt"
-  }],
+  "ingredients": [
+    {
+      "key": "mozzarella",
+      "quantity": 1.5,
+      "units": "cups",
+      "description": "shredded mozzarella cheese"
+    },
+    {
+      "key": "brazil-nuts",
+      "quantity": 0.33,
+      "units": "cups",
+      "description": "brazil flour"
+    },
+    {
+      "key": "pecan-nuts",
+      "quantity": 0.33,
+      "units": "cups",
+      "description": "pecan flour"
+    },
+    {
+      "key": "cream-cheese",
+      "quantity": 2,
+      "units": "tablespoons",
+      "description": "cream cheese"
+    },
+    {
+      "key": "egg",
+      "quantity": 1,
+      "units": "large",
+      "description": "egg"
+    },
+    {
+      "key": "salsa",
+      "quantity": 1,
+      "units": "jar",
+      "description": "salsa"
+    },
+    {
+      "key": "garlic-salt",
+      "quantity": 1,
+      "units": "teaspoon",
+      "description": "garlic salt"
+    }
+  ],
   "instructions": [
     "To make brazil & precan flour, blend both bags of nuts in a food processor and put this to one side.",
     "Put mozzarella & cream cheese in a medium size microwaveable bowl.",
@@ -67,10 +75,5 @@
     "Add the salsa for the sauce",
     "Add cheese slices for the topping",
     "Put back in oven for 5 minutes or until golden brown"
-  ],
-  "related": [
-    "fat-head-pizza",
-    "keto-nacho-pizza",
-    "shepherds-pie"
   ]
 }

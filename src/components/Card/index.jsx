@@ -5,8 +5,6 @@ import StarRating from '../StarRating'
 import './styles.scss'
 
 function Card({ recipe }) {
-  /* eslint-disable */
-  debugger
   return (
     <div className="card mb-3" role="button">
       <Link to={recipe.url}>
