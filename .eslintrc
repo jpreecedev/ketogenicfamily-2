@@ -1,0 +1,37 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    }
+  },
+  "env": {
+    "es6": true,
+    "browser": true
+  },
+  "globals": {
+    "graphql": false,
+    " __PREFIX_PATHS__": false,
+    "__PREFIX_PATHS__": false,
+    "__PATH_PREFIX__": false
+  },
+  "plugins": ["react"],
+  "extends": ["airbnb", "prettier"],
+  "rules": {
+    "react/prop-types": "off",
+    "import/no-extraneous-dependencies": "off",
+    "import/named": "off",
+    "react/jsx-no-bind": [
+      "error",
+      {
+        "ignoreRefs": true,
+        "allowArrowFunctions": true,
+        "allowFunctions": false,
+        "allowBind": false,
+        "ignoreDOMComponents": true
+      }
+    ]
+  }
+}
