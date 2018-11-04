@@ -6,8 +6,8 @@ import PostListing from '../components/PostListing/PostListing'
 import SEO from '../components/SEO/SEO'
 import config from '../../data/SiteConfig'
 
-function Index() {
-  const postEdges = this.props.data.allMarkdownRemark.edges
+function Index({ data }) {
+  const postEdges = data.allMarkdownRemark.edges
   return (
     <Layout>
       <div className="index-container">

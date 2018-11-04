@@ -21,8 +21,7 @@ import urljoin from 'url-join'
 import config from '../../../data/SiteConfig'
 import './SocialLinks.scss'
 
-function SocialLinks() {
-  const { postNode, postPath, mobile } = this.props
+function SocialLinks({ postNode, postPath, mobile }) {
   const post = postNode.frontmatter
   const url = urljoin(config.siteUrl, config.pathPrefix, postPath)
   const iconSize = mobile ? 36 : 48

@@ -3,8 +3,7 @@ import { Link } from 'gatsby'
 import UserLinks from '../UserLinks/UserLinks'
 import './Footer.scss'
 
-function Footer() {
-  const { config } = this.props
+function Footer({ config }) {
   const url = config.siteRss
   const { copyright } = config
   if (!copyright) {

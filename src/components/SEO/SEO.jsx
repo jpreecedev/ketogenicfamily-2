@@ -3,8 +3,7 @@ import Helmet from 'react-helmet'
 import urljoin from 'url-join'
 import config from '../../../data/SiteConfig'
 
-function SEO() {
-  const { postNode, postPath, postSEO } = this.props
+function SEO({ postNode, postPath, postSEO }) {
   let title
   let description
   let image

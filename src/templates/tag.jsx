@@ -5,9 +5,9 @@ import Layout from '../layout'
 import PostListing from '../components/PostListing/PostListing'
 import config from '../../data/SiteConfig'
 
-function TagTemplate() {
-  const { tag } = this.props.pageContext
-  const postEdges = this.props.data.allMarkdownRemark.edges
+function TagTemplate({ pageContext, data }) {
+  const { tag } = pageContext
+  const postEdges = data.allMarkdownRemark.edges
   return (
     <Layout>
       <div className="tag-container">

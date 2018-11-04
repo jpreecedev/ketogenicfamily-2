@@ -11,9 +11,9 @@ import config from '../../data/SiteConfig'
 import './b16-tomorrow-dark.scss'
 import './post.scss'
 
-function PostTemplate() {
-  const { slug } = this.props.pageContext
-  const postNode = this.props.data.markdownRemark
+function PostTemplate({ pageContext, data }) {
+  const { slug } = pageContext
+  const postNode = data.markdownRemark
   const post = postNode.frontmatter
   if (!post.id) {
     post.id = slug

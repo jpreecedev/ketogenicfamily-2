@@ -5,9 +5,9 @@ import Layout from '../layout'
 import PostListing from '../components/PostListing/PostListing'
 import config from '../../data/SiteConfig'
 
-function CategoryTemplate() {
-  const { category } = this.props.pageContext
-  const postEdges = this.props.data.allMarkdownRemark.edges
+function CategoryTemplate({ pageContext, data }) {
+  const { category } = pageContext
+  const postEdges = data.allMarkdownRemark.edges
   return (
     <Layout>
       <div className="category-container">
